@@ -9,7 +9,7 @@ image: "img/local.webp"
 # 🛶 Lives of the Local Fishermen
 
 Loktak Lake is more than a body of water — it is a living, breathing lifeline for the communities that surround it.  
-For generations, families have depended on this vast lake for food, income, shelter, and identity. The relationship between the people and the lake is deep, ancient, and full of respect.
+For generations, families have depended on this vast lake for food, income, shelter, and identity. The relationship between the people and the lake is deep, ancient.
 
 ---
 
