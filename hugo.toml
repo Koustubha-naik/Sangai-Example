@@ -1,7 +1,7 @@
 # =========================
 # BASIC SITE SETTINGS
 # =========================
-baseURL = "https://koustubha-naik.github.io/Sangai-Example/"
+baseURL = "https://demo.koustubha.com/"
 languageCode = "en-us"
 title = "Sangai"
 theme = "Sangai"
@@ -18,61 +18,61 @@ theme = "Sangai"
 [params]
   googleAnalytics = "G-XXXXXXXXXX"
 
-  # Profile details
+  # Profile section
   [params.profile]
     name = "Sangai DEER ❤️‍🔥"
     about = """Namaskar and welcome! I am the Sangai, the rare Dancing Deer of Manipur’s floating Keibul Lamjao 
     National Park. This is my little home on the web, where I share my world, my story, and the beauty of Loktak Lake. 
     Thank you for visiting—may my dance inspire you."""
-    avatar = "/Sangai-Example/img/profile.webp"
+    avatar = "/img/profile.webp"
 
-  # Explore section heading
+  # Explore section title
   [params.explore_title]
     title = "Explore"
     subtitle = "Dive into what I'm building, breaking, and learning."
 
-# Explore cards
+# Explore Cards
 [[params.explore]]
   title = "Loktak Lake"
   icon = "🌊"
   category = "Nature"
   description = "Explore the beauty of the world’s only floating national park."
-  url = "/Sangai-Example/loktak/"
+  url = "/loktak/"
 
 [[params.explore]]
   title = "Conservation Story"
   icon = "🌱"
   category = "Environment"
   description = "Discover how the Sangai is protected and why it matters."
-  url = "/Sangai-Example/conservation/"
+  url = "/conservation/"
 
 [[params.explore]]
   title = "About the Sangai"
   icon = "🦌"
   category = "Wildlife"
   description = "Learn about the rare Dancing Deer of Manipur and her floating home."
-  url = "/Sangai-Example/about/"
+  url = "/about/"
 
-# Featured slider items
+# Featured Slider
 [[params.featured]]
   title = "Morning Mist of Loktak"
   description = "A serene sunrise drifting across the floating islands of Loktak Lake."
-  image = "/Sangai-Example/img/morning.webp"
-  url = "/Sangai-Example/loktak/morning-mist/"
+  image = "/img/morning.webp"
+  url = "/loktak/morning-mist/"
 
 [[params.featured]]
   title = "The Floating Phumdis"
-  description = "Explore the unique floating islands that support the Sangai and the entire ecosystem."
-  image = "/Sangai-Example/img/local.webp"
-  url = "/Sangai-Example/loktak/phumdis/"
+  description = "Explore the unique floating islands that support the Sangai and the ecosystem."
+  image = "/img/local.webp"
+  url = "/loktak/phumdis/"
 
 [[params.featured]]
   title = "About the Sangai"
   description = "Meet the rare Dancing Deer of Manipur and explore her floating world."
-  image = "/Sangai-Example/img/sketch.webp"
-  url = "/Sangai-Example/about/"
+  image = "/img/sketch.webp"
+  url = "/about/"
 
-# Social links
+# Social Icons
 [[params.social]]
   icon = "github"
   url = "#"
@@ -89,13 +89,8 @@ theme = "Sangai"
   icon = "instagram"
   url = "#"
 
-[[params.social]]
-  icon = "linkedin"
-  url = "#"
-
-
 # =========================
-# MARKDOWN SETTINGS
+# MARKDOWN
 # =========================
 [markup]
   [markup.goldmark.renderer]
@@ -105,41 +100,38 @@ theme = "Sangai"
     lineNos = true
     lineNumbersInTable = false
 
-
 # =========================
-# NAVIGATION MENU
+# MENU
 # =========================
 [menu]
   [[menu.main]]
     name = "Home"
-    url = "/Sangai-Example/"
+    url = "/"
     weight = 1
 
   [[menu.main]]
     name = "Blog"
-    url = "/Sangai-Example/loktak/"
+    url = "/loktak/"
     weight = 2
 
   [[menu.main]]
     name = "Conservation"
-    url = "/Sangai-Example/conservation/"
+    url = "/conservation/"
     weight = 3
 
   [[menu.main]]
     name = "About"
-    url = "/Sangai-Example/about/"
+    url = "/about/"
     weight = 4
 
-
 # =========================
-# OUTPUT FORMATS
+# OUTPUTS (RSS)
 # =========================
 [outputs]
   home = ["HTML", "RSS"]
 
-
 # =========================
-# SITEMAP (SEO)
+# SITEMAP
 # =========================
 [sitemap]
   changefreq = "monthly"
