@@ -1,4 +1,4 @@
-name: Deploy Hugo Site
+name: Deploy Hugo site to GH Pages
 
 on:
   push:
@@ -6,9 +6,8 @@ on:
       - main
 
 jobs:
-  build-deploy:
+  deploy:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -16,8 +15,8 @@ jobs:
           submodules: true
           fetch-depth: 0
 
-      - name: Install Hugo
-        uses: peaceiris/actions-hugo@v3
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
           extended: true
@@ -25,12 +24,10 @@ jobs:
       - name: Build site
         run: hugo --minify
 
-      - name: Copy CNAME file
-        run: cp CNAME public/CNAME
-
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
-          personal_token: ${{ secrets.GH_PAGES_DEPLOY }}
-          publish_branch: gh-pages
+          token: ${{ secrets.GH_PAT }}   # ← IMPORTANT FIX
           publish_dir: ./public
+          publish_branch: gh-pages
+          cname: demo.koustubha.com
