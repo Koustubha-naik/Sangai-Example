@@ -24,7 +24,7 @@ theme = "Sangai"
     about = """Namaskar and welcome! I am the Sangai, the rare Dancing Deer of Manipur’s floating Keibul Lamjao 
     National Park. This is my little home on the web, where I share my world, my story, and the beauty of Loktak Lake. 
     Thank you for visiting—may my dance inspire you."""
-    avatar = "/img/profile.webp"
+    avatar = "/Sangai-Example/img/profile.webp"
 
   # Explore section heading
   [params.explore_title]
@@ -37,40 +37,40 @@ theme = "Sangai"
   icon = "🌊"
   category = "Nature"
   description = "Explore the beauty of the world’s only floating national park."
-  url = "/loktak/"
+  url = "/Sangai-Example/loktak/"
 
 [[params.explore]]
   title = "Conservation Story"
   icon = "🌱"
   category = "Environment"
   description = "Discover how the Sangai is protected and why it matters."
-  url = "/conservation/"
+  url = "/Sangai-Example/conservation/"
 
 [[params.explore]]
   title = "About the Sangai"
   icon = "🦌"
   category = "Wildlife"
   description = "Learn about the rare Dancing Deer of Manipur and her floating home."
-  url = "/about/"
+  url = "/Sangai-Example/about/"
 
 # Featured slider items
 [[params.featured]]
   title = "Morning Mist of Loktak"
   description = "A serene sunrise drifting across the floating islands of Loktak Lake."
-  image = "/img/morning.webp"
-  url = "/loktak/morning-mist/"
+  image = "/Sangai-Example/img/morning.webp"
+  url = "/Sangai-Example/loktak/morning-mist/"
 
 [[params.featured]]
   title = "The Floating Phumdis"
   description = "Explore the unique floating islands that support the Sangai and the entire ecosystem."
-  image = "img/local.webp"
-  url = "/loktak/phumdis/"
+  image = "/Sangai-Example/img/local.webp"
+  url = "/Sangai-Example/loktak/phumdis/"
 
 [[params.featured]]
   title = "About the Sangai"
   description = "Meet the rare Dancing Deer of Manipur and explore her floating world."
-  image = "/img/sketch.webp"
-  url = "/about/"
+  image = "/Sangai-Example/img/sketch.webp"
+  url = "/Sangai-Example/about/"
 
 # Social links
 [[params.social]]
@@ -112,22 +112,22 @@ theme = "Sangai"
 [menu]
   [[menu.main]]
     name = "Home"
-    url = "/"
+    url = "/Sangai-Example/"
     weight = 1
 
   [[menu.main]]
     name = "Blog"
-    url = "/loktak/"
+    url = "/Sangai-Example/loktak/"
     weight = 2
 
   [[menu.main]]
     name = "Conservation"
-    url = "/conservation/"
+    url = "/Sangai-Example/conservation/"
     weight = 3
 
   [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "/Sangai-Example/about/"
     weight = 4
 
 
