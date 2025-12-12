@@ -1,7 +1,7 @@
 # =========================
 # BASIC SITE SETTINGS
 # =========================
-baseURL = "https://koustubha-naik.github.io/Sangai/"
+baseURL = "https://koustubha-naik.github.io/Sangai-Example/"
 languageCode = "en-us"
 title = "Sangai"
 theme = "Sangai"
