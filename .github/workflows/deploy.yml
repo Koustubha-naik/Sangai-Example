@@ -1,4 +1,4 @@
-name: Deploy Hugo site to GH Pages
+name: Deploy Hugo Site
 
 on:
   push:
@@ -6,17 +6,18 @@ on:
       - main
 
 jobs:
-  deploy:
+  build-deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
         with:
           submodules: true
           fetch-depth: 0
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+      - name: Install Hugo
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
           extended: true
@@ -27,7 +28,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
-          token: ${{ secrets.GH_PAT }}   # ← IMPORTANT FIX
-          publish_dir: ./public
+          personal_token: ${{ secrets.GH_PAT }}   # ✔ Correct for fine-grained PAT
           publish_branch: gh-pages
+          publish_dir: ./public
           cname: demo.koustubha.com
