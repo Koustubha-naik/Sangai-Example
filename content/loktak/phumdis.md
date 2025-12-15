@@ -6,10 +6,10 @@ author: "Sangai Deer"
 image: "img/local.webp"
 ---
 
-# 🛶 Lives of the Local Fishermen
+## 🛶 Lives of the Local Fishermen
 
 Loktak Lake is more than a body of water — it is a living, breathing lifeline for the communities that surround it.  
-For generations, families have depended on this vast lake for food, income, shelter, and identity. The relationship between the people and the lake is deep, ancient.
+For generations, families have depended on this vast lake for food, income, shelter, and identity. The relationship between the people and the lake is deep and ancient.
 
 ---
 
@@ -40,9 +40,9 @@ The people of Loktak use a variety of traditional tools such as:
 
 - **Long bamboo nets**
 - **Cone-shaped traps**
-- **Large circular nets** thrown with skill  
-- **Basket traps** hidden under phumdis  
-- **Small hand nets** used near the shore  
+- **Large circular nets** thrown with skill
+- **Basket traps** hidden under phumdis
+- **Small hand nets** used near the shore
 
 These methods are sustainable and gentle, causing minimal harm to the ecosystem.
 
@@ -62,10 +62,10 @@ The lake is at the center of their cultural identity.
 
 Despite their resilience, fishermen face modern challenges:
 
-- shrinking phumdis  
-- water pollution  
-- reduced fish population  
-- climate changes affecting water levels  
+- shrinking phumdis
+- water pollution
+- reduced fish population
+- climate changes affecting water levels
 
 Yet, their spirit remains strong. They continue to find ways to protect both their livelihood and the lake they depend on.
 
