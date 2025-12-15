@@ -6,6 +6,8 @@ languageCode = "en-us"
 title = "Sangai"
 theme = "Sangai"
 
+enableRobotsTXT = true
+
 # =========================
 # PAGINATION
 # =========================
