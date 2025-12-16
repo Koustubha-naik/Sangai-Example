@@ -19,6 +19,7 @@ enableRobotsTXT = true
 # =========================
 [params]
   googleAnalytics = "G-XXXXXXXXXX"
+  description = "Sangai is a clean and fast Hugo theme for blogs and personal websites."
 
   # Profile section
   [params.profile]
@@ -28,7 +29,7 @@ National Park. This is my little home on the web, where I share my world, my sto
 Thank you for visiting—may my dance inspire you."""
     avatar = "img/profile.webp"
 
-   description = "Stories of Loktak Lake, the Sangai deer, conservation, and the floating world of Manipur."
+   
 
   # Explore section title
   [params.explore_title]
