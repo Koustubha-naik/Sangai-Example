@@ -11,7 +11,7 @@ date: "2025-12-10"
 
 **Namaskar. Eina Sangai ni** — the rare and graceful *Dancing Deer* of Manipur.  
 I live in a magical place called **Keibul Lamjao National Park**, the world’s only floating wildlife sanctuary.  
-My steps are gentle because the **phumdis** (floating islands) beneath me rise and fall like soft cushions.
+My steps are gentle because the  **phumdis** (floating islands) beneath me rise and fall like soft cushions.
 
 People call me the *Dancing Deer* because my walk looks like a slow, careful dance.  
 But behind this beauty is a fragile story — only a small number of us remain, protected with care and deep love by the people of Manipur.
