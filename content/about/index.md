@@ -4,7 +4,7 @@ description: "Meet the gentle Dancing Deer of Manipur"
 date: "2025-12-10"
 ---
 
-<img src="/img/sketch.webp" width="420">
+![Morning Mist](/img/sketch.webp "medium")
 
 
 # 🦌 About the Sangai Deer
