@@ -41,7 +41,7 @@ Or blink.
   # -------------------------
   [params.theme]
     bgDark  = "#121216"
-    bgLight = "#f6eaea"
+    bgLight = "#e1ddb7"
    
   # -------------------------
   # EXPLORE SECTION TITLE
