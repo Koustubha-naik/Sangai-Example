@@ -12,72 +12,86 @@ enableRobotsTXT = true
 # PAGINATION
 # =========================
 [pagination]
-  pagerSize = 2
+  pagerSize = 3
 
 # =========================
 # SITE PARAMETERS
 # =========================
 [params]
-  googleAnalytics = "G-XXXXXXXXXX"
-  description = "Sangai is a clean and fast Hugo theme for blogs and personal websites."
+  description = "Sangai is a clean, minimal Hugo theme for personal writing and visual storytelling."
 
-  # Profile section
+  # -------------------------
+  # PROFILE SECTION
+  # -------------------------
   [params.profile]
-    name = "Sangai DEER ❤️‍🔥"
-    about = """Namaskar and welcome! I am the Sangai, the rare Dancing Deer of Manipur’s floating Keibul Lamjao 
-National Park. This is my little home on the web, where I share my world, my story, and the beauty of Loktak Lake. 
-Thank you for visiting—may my dance inspire you."""
-    avatar = "img/profile.webp"
+    name = "Sangai Deer"
+    about = """
+Welcome.
 
+I’m the last Sangai —
+moving quietly through the noise.
+
+Stay curious.
+Or blink.
+"""
+    avatar = "img/dad.webp"
+
+  # -------------------------
+  # THEME COLORS
+  # -------------------------
+  [params.theme]
+    bgDark  = "#121216"
+    bgLight = "#f6eaea"
    
-
-  # Explore section title
+  # -------------------------
+  # EXPLORE SECTION TITLE
+  # -------------------------
   [params.explore_title]
     title = "Explore"
-    subtitle = "Dive into what I'm building, breaking, and learning."
+    subtitle = "Wander through thoughts, pages, and quiet chaos."
 
 # =========================
 # EXPLORE CARDS
 # =========================
 [[params.explore]]
-  title = "Loktak Lake"
-  icon = "🌊"
-  category = "Nature"
-  description = "Explore the beauty of the world’s only floating national park."
-  url = "loktak/"
+  title = "Blog"
+  icon = "✍️"
+  category = "Writing"
+  description = "Thoughts, notes, and long-form experiments."
+  url = "blog/"
 
 [[params.explore]]
-  title = "Conservation Story"
-  icon = "🌱"
-  category = "Environment"
-  description = "Discover how the Sangai is protected and why it matters."
-  url = "conservation/"
-
-[[params.explore]]
-  title = "About the Sangai"
+  title = "About"
   icon = "🦌"
-  category = "Wildlife"
-  description = "Learn about the rare Dancing Deer of Manipur and her floating home."
+  category = "Identity"
+  description = "Who I am, what I build, and why."
   url = "about/"
+
+[[params.explore]]
+  title = "404"
+  icon = "⚠"
+  category = "Chaos"
+  description = "A page that shouldn’t exist — but does."
+  url = "xyz/"
 
 # =========================
 # FEATURED SLIDER
 # =========================
 [[params.featured]]
   title = "Morning Mist of Loktak"
-  description = "A serene sunrise drifting across the floating islands of Loktak Lake."
+  description = "A calm sunrise drifting across Loktak’s floating islands."
   image = "img/morning.webp"
   url = "loktak/morning-mist/"
 
 [[params.featured]]
   title = "The Floating Phumdis"
-  description = "Explore the unique floating islands that support the Sangai and the ecosystem."
+  description = "The unique floating ecosystem that shelters the Sangai."
   image = "img/local.webp"
   url = "loktak/phumdis/"
 
 [[params.featured]]
-  title = "About the Sangai"
-  description = "Meet the rare Dancing Deer of Manipur and explore her floating world."
+  title = "About Me"
+  description = "A quieter look behind the work."
   image = "img/sketch.webp"
   url = "about/"
 
@@ -101,7 +115,7 @@ Thank you for visiting—may my dance inspire you."""
   url = "#"
 
 # =========================
-# MARKDOWN
+# MARKDOWN SETTINGS
 # =========================
 [markup]
   [markup.goldmark.renderer]
@@ -126,17 +140,17 @@ Thank you for visiting—may my dance inspire you."""
     weight = 2
 
   [[menu.main]]
-    name = "Conservation"
-    url = "conservation/"
+    name = "About"
+    url = "about/"
     weight = 3
 
   [[menu.main]]
-    name = "About"
-    url = "about/"
+    name = "404"
+    url = "xyz/"
     weight = 4
 
 # =========================
-# OUTPUTS (RSS)
+# OUTPUTS
 # =========================
 [outputs]
   home = ["HTML", "RSS"]

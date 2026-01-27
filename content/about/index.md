@@ -1,44 +1,65 @@
 ---
-title: "About the Sangai"
-description: "Meet the gentle Dancing Deer of Manipur"
+title: "About Me 🔫"
 date: "2025-12-10"
 ---
 
-![Morning Mist](/img/sketch.webp "medium")
-
-
-# 🦌 About the Sangai Deer
-
-**Namaskar. Eina Sangai ni** — the rare and graceful *Dancing Deer* of Manipur.  
-I live in a magical place called **Keibul Lamjao National Park**, the world’s only floating wildlife sanctuary.  
-My steps are gentle because the  **phumdis** (floating islands) beneath me rise and fall like soft cushions.
-
-People call me the *Dancing Deer* because my walk looks like a slow, careful dance.  
-But behind this beauty is a fragile story — only a small number of us remain, protected with care and deep love by the people of Manipur.
+![Morning Mist](/img/dad.webp "small")
 
 ---
 
-## 🌿 My Home  
-Loktak Lake is my world —  
-its misty mornings, quiet waters, and drifting phumdis are woven into my life.  
-The lake is not just a habitat; it is a living, breathing part of us.
+**Bow or bounce — there is no in-between.**
+
+I’m the **Sangai** —  
+last legend rising from Manipur’s floating **Keibul Lamjao** swamp.  
+Endangered in textbooks.  
+**Immortal in the game.**
+
+Most deer run from hunters.  
+I hunt egos — recreationally.
+
+**Loktak Lake** is my throne.  
+The water moves *because* I allow it.
+
+Northeast India blood:  
+cold hills, hot attitude, zero apologies.
+
+Gold chains talk louder than your notifications.  
+Shades stay on — weak light doesn’t deserve my eyes.  
+Cigar stays lit — smoke signals for haters to stay back.
 
 ---
 
-## 🌱 A Species Worth Protecting  
-The Sangai is more than an animal —  
-**we are a symbol of hope, identity, and resilience**.  
-Conservation efforts continue so we can thrive peacefully in our floating home.
+This page?  
+**My private empire.**
+
+You stepped in?  
+Rare luck.
+
+Don’t get comfortable.
+
+I don’t do small talk.  
+I don’t fake smiles.  
+I don’t give second chances.
+
+Copy my drip? **Instant delete.**  
+Test the king? 🔫 — ventilated before you blink.
+
+99% of visitors bore me to death.  
+You’re probably next.
+
+Scroll only if your spine is steel.  
+Most crumble.
+
+Legends like me?  
+**We just reload.**
 
 ---
 
-## 💚 Why I Created This Page  
-This little space is for anyone who wishes to learn about:
+**Real ones only.**  
+Prove you’re not basic — or vanish like the rest.
 
-- my story  
-- my home and habitat  
-- conservation work  
-- the beauty of Loktak Lake  
+**SANGAI DEER**  
+Rare breed.  
+Big menace.
 
-Thank you for visiting.  
-**Eigi thajadaba thabak asi nangonda matik oiyu — may my small story inspire you.**
+⚠️ **Enter at your own risk.**
