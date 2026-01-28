@@ -4,7 +4,7 @@ description: "Experience the magic, science, and rhythm of Loktak Lake’s early
 date: 2019-01-01
 author: "Sangai Deer"
 toc: true
-image: "img/morning.webp"
+featuredimage: "img/morning.webp"
 ---
 
 

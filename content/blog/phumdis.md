@@ -3,7 +3,7 @@ title: "Life of the Local Fishermen"
 description: "How Loktak Lake shapes the lives, culture, and traditions of its people"
 date: 2024-01-01
 author: "Sangai Deer"
-image: "img/local.webp"
+featuredimage: "img/local.webp"
 ---
 
 ## 🛶 Lives of the Local Fishermen
