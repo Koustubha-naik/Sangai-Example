@@ -91,7 +91,7 @@ enableRobotsTXT = true
     bgDark = "#121216"
 
     # Background color for light mode
-    bgLight = "#57704a6c"
+    bgLight = "#50814d7c"
 
   # -------------------------------------------------------
   # PROFILE / HERO SECTION
