@@ -85,13 +85,7 @@ enableRobotsTXT = true
   # -------------------------------------------------------
   # Used globally for UI and backgrounds
 
-  [params.theme]
 
-    # Background color for dark mode
-    bgDark = "#121216"
-
-    # Background color for light mode
-    bgLight = "#50814d7c"
 
   # -------------------------------------------------------
   # PROFILE / HERO SECTION
