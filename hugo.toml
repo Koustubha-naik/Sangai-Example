@@ -29,7 +29,7 @@
 #
 # IMPORTANT:
 # - Always include trailing slash in production
-baseURL = "https://demo.koustubha.com"
+baseURL = "https://sangai.koustubha.com"
 
 # Language of the site
 # Used for SEO and accessibility
