@@ -123,6 +123,13 @@ moving quietly through the noise.
 Stay curious.
 Or blink.
 """
+[params.giscus]
+  repo = "Koustubha-naik/Sangai-Example"
+  repoId = "R_kgDOQnVHwg"
+  category = "Announcements"
+  categoryId = "DIC_kwDOQnVHws4DAytV"
+  mapping = "pathname"
+  theme = "preferred_color_scheme"  # This will act as our initial baseline theme
 
 
   
