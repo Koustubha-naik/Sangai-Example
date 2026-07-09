@@ -148,19 +148,19 @@ Or blink.
 
 [[params.social]]
   icon = "github"
-  url = "#"
+  url = "https://github.com/"
 
 [[params.social]]
   icon = "linkedin"
-  url = "#"
+  url = "https://www.linkedin.com/"
 
 [[params.social]]
   icon = "x"
-  url = "#"
+  url = "https://x.com/"
 
 [[params.social]]
   icon = "instagram"
-  url = "#"
+  url = "https://www.instagram.com/"
 
 # ---------------------------------------------------------
 # FEATURED SLIDER / CAROUSEL
