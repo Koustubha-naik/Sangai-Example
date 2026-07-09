@@ -2,6 +2,7 @@
 title: "Birds of Loktak Lake"
 description: "A paradise for migratory birds"
 date: 2016-09-23
+comments: true
 ---
 
 # 🐦 Birds of Loktak Lake
