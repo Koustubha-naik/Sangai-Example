@@ -87,11 +87,11 @@ disableKinds = ["taxonomy", "term"]
   # googleAnalytics = "G-XXXXXXXXXX"
 
   # -------------------------------------------------------
-  # THEME COLORS
+  # LOGO
   # -------------------------------------------------------
-  # Used globally for UI and backgrounds
 
-
+  logo = true
+  logo_path = "icon/android-chrome-192x192.png"
 
   # -------------------------------------------------------
   # PROFILE / HERO SECTION
